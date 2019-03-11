@@ -2,7 +2,8 @@
 {
 	position: fixed;
 	width: 98.5%;
-	background-color:azure;
+  background-color:rgb(240, 255, 255);
+  /* background-color: rgb(164, 223, 233); */
 	overflow: auto;
 	border-style: double;
 	border-color: black;
@@ -13,7 +14,7 @@
 #menu a
 {
 	font-family: Tahoma;
-	color: darkblue;
+	color: rgb(12, 12, 77);
 	display: inline-block;
 	text-decoration: none;
 	font-style: bolder;
@@ -21,7 +22,7 @@
 }
 
 #menu a:hover {
-    background-color: gray;
+    background-color: rgba(168, 167, 167, 0.884)
 }
 
 body {
@@ -30,9 +31,9 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 100%;
 	font-family: Tahoma;
-	color: white;
+	color: rgb(253, 255, 232);
 }
 
 
