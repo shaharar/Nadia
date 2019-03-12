@@ -2,7 +2,7 @@
 {
 	position: fixed;
 	width: 98.5%;
-  background-color:rgb(240, 255, 255);
+  background-color:rgba(211, 238, 238, 0.979);
   /* background-color: rgb(164, 223, 233); */
 	overflow: auto;
 	border-style: double;
@@ -31,11 +31,17 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-size: 100%;
+  background-size: 100% 100%;
 	font-family: Tahoma;
 	color: rgb(253, 255, 232);
 }
 
+h1 {
+  color: rgb(2, 2, 15);
+  font-family: Tahoma;
+  font-size: 120%;
+  font-style: italic;
+}
 
 .slider {
   width: 500px;
@@ -71,7 +77,6 @@ body {
   width: 500px;
   height: 350px;
   border-radius: 10px;
- /* background-image: url(c.jpg);*/
  transform-origin: center center;
   transform: scale(1);
   transition: transform 0.5s;
