@@ -42,7 +42,7 @@ body {
 	background-repeat: no-repeat;
   background-size: 100% 100%;
 	font-family: Tahoma;
-	color: rgb(245, 250, 201);
+	color: rgb(253, 255, 232);
 }
 
 h1 {
@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-	color: rgb(246, 252, 188);
+  color: rgb(255, 255, 255);
   font-family: Tahoma;
   font-size: 100%;
   /* background-color: rgba(240, 248, 255, 0.849); */
