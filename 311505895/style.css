@@ -85,7 +85,7 @@ h2 {
   height: 10px;
 }
 .slides::-webkit-scrollbar-thumb {
-  background: black;
+  background: rgb(241, 97, 97);
   border-radius: 10px;
 }
 .slides::-webkit-scrollbar-track {
@@ -110,7 +110,7 @@ h2 {
   transform: scale(0.8);
 }
 
-.slider > a {
+/* .slider > a {
   display: inline-flex;
   width: 1.5rem;
   height: 1.5rem;
@@ -121,7 +121,7 @@ h2 {
   border-radius: 50%;
   margin: 0 0 0.5rem 0;
   position: relative;
-}
+} */
 .slider > a:active {
   top: 1px;
 }
